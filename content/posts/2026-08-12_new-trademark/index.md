@@ -1,7 +1,7 @@
 ---
 title: "Sharing Guidelines about Mastodon’s Trade Mark Policy"
 description: "Today, we’re sharing additional guidelines about our trade mark policy in order to give you more clarity about it, based on questions we received from you!"
-date: 2026-08-13
+date: 2026-08-12
 categories:
   - News
 tags:
