@@ -1,7 +1,7 @@
 ---
 title: "Sharing Guidelines about Mastodon’s Trade Mark Policy"
 description: "Today, we’re sharing additional guidelines about our trade mark policy in order to give you more clarity about it, based on questions we received from you!"
-date: 2026-08-13
+date: 2026-08-12
 categories:
   - News
 tags:
@@ -23,7 +23,7 @@ We have updated our Policy to reflect these changes, but we also wanted to share
 
 This policy applies only to uses of the Mastodon Trade Mark which are restricted, or reserved to Mastodon GmbH (the Trade Mark owner), by law. We are not intending to remove any rights that you have in law, only to grant additional rights (in certain circumstances).
 
-**Please do not use the Mastodon name or logo in a server’s, service’s, or product’s name or branding without our permission:**     
+**Please do not use the Mastodon name or logo in a server’s, service’s, or product’s name or branding without our permission:**
 To use the Mastodon name and logo as part of the name or branding (but not domain name or path; see below) of a server, service, or product, you must obtain express written permission from Mastodon GmbH. You can request permission by emailing [legal@joinmastodon.org](mailto:legal@joinmastodon.org). We'll consider requests on a case-by-case basis.
 
 When we grant permission to use our Trade Mark, it will be on the condition that the server admin or developer include a prominent disclaimer: "This [server/site/project/product] is not affiliated with or endorsed by Mastodon GmbH or Mastodon Inc."
@@ -39,11 +39,11 @@ We also recognise that many servers running Mastodon software wish to include ma
 
 Here are some specific examples to help illustrate what is permitted and what is forbidden:
 
-mastodon.example.com - Permitted
-example.com/mastodon - Permitted
-example.mymastodon.com - Forbidden
-example.masto.net - Forbidden
-example.best-mstdn-host.org - Forbidden
+- `mastodon.example.com` - Permitted
+- `example.com/mastodon` - Permitted
+- `example.mymastodon.com` - Forbidden
+- `example.masto.net` - Forbidden
+- `example.best-mstdn-host.org` - Forbidden
 
 If your domain name uses "mastodon" (or a confusingly similar name) in a permissible way (as described above), we require that you include a disclaimer (in a footer or otherwise user-visible location) which states that "This [server/site] is not affiliated with or endorsed by Mastodon GmbH or Mastodon Inc."
 
